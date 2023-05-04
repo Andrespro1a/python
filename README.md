@@ -11,7 +11,7 @@ python3 main.py
 ```sh 
 git clone
 cd app
-source env/bin/activate
+source env/bin/activateh
 pip3 install -requirements.txt
 python3 main.py 
 ```
